@@ -1,0 +1,68 @@
+Characters     Key            Valid Key      
+e=U, x=D       (21,14)        YES GCD=1
+
+fmkicesgvgskiermnigngtcgoiekdcclmzragdercghtu
+sjfgfcenamicmfmdrnezcecsjtgirmsetcgvgofmlorek
+hchngacgkdwnuigncsjiuhgsntcelhgihgktusjctdere
+kmidrnezgaukhesmfmdrnezgsjzceltusjtgkhglwvgsk
+gaeqmsjrukdwkgzeteluodbpcngwiguhnetgkicescedr
+igomtxrmtdgsvglimsjhmqcoeomtmacchmqcocnukowch
+mqcockfrgicelhcieqmfmlncghwlmzrielhwqfgfcengt
+cezelgmteikfrnesntmkscvekhcduhomcsjrehgsvenmk
+dgtgihgkscicewreqwhmigtefgfcenfrnufmatcghneie
+lhwqogdmhcsocevtgwockfmhesntevkfrgicelhciufml
+ncghlmzrkdgtmicfrcmrudedtgdwrghtcenukovekdheq
+ghtucieihgkscievacernetcenzeltulhgrmnimvwqmkf
+mlgrsneqmfmlorekhchfrnudmsnuhtgkdeftcekhmigvg
+tgfgihgccikfmhsnektgeomtmacgfrnelkcezcmrkdign
+gicerggkfeodufmnuduiteodmrusjomrnetceavekdimh
+tmksmkmzuiurgngvgsgkceiicehwlncelnctgsjacelnu
+cttuacilncelnctceqmkfmlgrsnev
+
+
+Characters     Key            Valid Key      
+e=U, x=J       (9,10)         YES GCD=1
+
+poswiecajacswerozwazaniakwestiidobrmaterialny
+chpapiezmowiopotrzebieichnawroceniajakpodkres
+lilzamiastuzywazichwylaczniedlawlasnychintere
+sowtrzebamyslecopotrzebachbiednychnasladujacs
+amegochrystusabenedyktxvizauwaylzenaswiecietr
+wakonfrontacjadwochlogikekonomiilogikizyskuil
+ogikisprawiedliwegopodzialudobrwedlugpapiezan
+iebedaonewsprzecznoscijeslitylkoichrelacjezos
+tanawlasciwieuregulowanepapiezprzypomnialzewe
+dlugkatolickiejnaukispolecznejsprawiedliwypod
+zialdobrstanowipriorytetnaturalniezyskjestleg
+alnyiwewlasciwejmierzeniezbednydlarozwojugosp
+odarczegopodkreslilprzytoczylnastepnieslowaja
+napawlaiiwspolczesnaekonomiaprzedsiebiorstwaz
+awieraaspektypozytywnektorychkorzeniemjestwol
+noscosobywyrazajacasiewwieludziedzinachmiedzy
+innymiwdziedziniegospodarczej
+
+
+Characters     Key            Valid Key      
+e=U, x=R       (19,22)        YES GCD=1
+
+bgmskeoyfyomsergdsydylkyasemhkkjgtrqyherkyvli
+opbybkedqgskgbghrdetkekoplysrgoelkyfyabgjarem
+vkvdyqkymhcdisydkopsivyodlkejvysvymliopklhere
+mgshrdetyqimveogbghrdetyoptkejlioplymvyjcfyom
+yqeugoprimhcmytelejiahnxkdycsyivdelymskeokehr
+syaglzrglhyofyjsgopvgukaeaglgqkkvgukakdimackv
+gukakmbryskejvkseugbgjdkyvcjgtrsejvcubybkedyl
+ketejyglesmbrdeodlgmokfemvkhivagkoprevyofedgm
+hylysvymokskecreucvgsylebybkedbrdibgqlkyvdese
+jvcuayhgvkoakeflycakmbgveodlefmbryskejvksibgj
+dkyvjgtrmhylgskbrkgrihehlyhcryvlkedimafemhveu
+yvliksesvymoksefqkerdelkedtejlijvyrgdsgfcugmb
+gjyrodeugbgjaremvkvbrdihgodivlymheblkemvgsyfy
+lybysvykksmbgvodemlyeaglgqkybrdejmketkgrmhsyd
+yskeryymbeahibgdihisleahgriopagrdelkeqfemhsgv
+lgmogmgtisirydyfyoymkesskevcjdkejdklyopqkejdi
+klliqksjdkejdklkeugmbgjyrodef
+
+
+Characters     Key            Valid Key      
+e=U, x=Y       (18,0)         NO GCD=2
