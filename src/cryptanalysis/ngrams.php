@@ -4,9 +4,6 @@
  * character n-grams with a frequency greater than 1.
  *
  * (c) Jacob Chafik <jacob@achafik.com>
- *
- * For the full copyright and license information, please view the LICENSE
- * file that was distributed with this source code.
  */
 
 // The directory containing text files to analyze
