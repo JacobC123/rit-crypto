@@ -8,7 +8,7 @@
 Header('Content-Type: text/plain');
 
 // The file that we want to analyze
-define('CONFIG_FILE', dirname(__FILE__) . '/files/2.txt');
+define('CONFIG_FILE', dirname(__FILE__) . '/input/2.txt');
 
 // The modulo we're working in
 define('MODULO', 26);

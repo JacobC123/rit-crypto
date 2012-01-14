@@ -8,7 +8,7 @@
 Header('Content-Type: text/plain');
 
 // The file that we want to analyze
-define('CONFIG_FILE', dirname(__FILE__) . '/files/3.txt');
+define('CONFIG_FILE', dirname(__FILE__) . '/input/3.txt');
 
 $map = array(
     'A' => 't', 'T' => 'e', 'S' => 'h', 'I' => 'w', 'J' => 'i', 'M' => 'r',

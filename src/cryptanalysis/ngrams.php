@@ -7,7 +7,7 @@
  */
 
 // The directory containing text files to analyze
-define('CONFIG_DIR', dirname(__FILE__) . '/files/');
+define('CONFIG_DIR', dirname(__FILE__) . '/input/');
 
 // Display all n-grams (frequency > 1), or only the largest substring. See
 // is_largest_substr() for more info.

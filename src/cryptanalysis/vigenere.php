@@ -10,7 +10,7 @@
 Header('Content-Type: text/plain');
 
 // The file that we want to analyze
-define('CONFIG_FILE', dirname(__FILE__) . '/files/4.txt');
+define('CONFIG_FILE', dirname(__FILE__) . '/input/4.txt');
 define('KEY_LENGTH', 7);
 define('KEY', 'ESPANOL');
 
