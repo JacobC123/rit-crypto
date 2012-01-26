@@ -1,4 +1,148 @@
 
+Compute bias of DES S-boxes:<br />
+
+<table cellpadding="0" cellspacing="0" border="1">
+
+    <tr class="heading">
+
+        <td>&nbsp;</td>
+
+        <td>1</td><td>2</td><td>3</td><td>4</td>
+
+        <td><strong>Total</strong>
+
+    </tr>
+
+        <tr>
+
+        <td>S1</td>
+
+                    <td>-2</td>
+
+                    <td>0</td>
+
+                    <td>-2</td>
+
+                    <td>-4</td>
+
+                <td><strong>-4/64</strong></td>
+
+    </tr>
+
+        <tr>
+
+        <td>S2</td>
+
+                    <td>0</td>
+
+                    <td>-2</td>
+
+                    <td>-4</td>
+
+                    <td>-6</td>
+
+                <td><strong>-6/64</strong></td>
+
+    </tr>
+
+        <tr>
+
+        <td>S3</td>
+
+                    <td>-2</td>
+
+                    <td>-2</td>
+
+                    <td>2</td>
+
+                    <td>2</td>
+
+                <td><strong>2/64</strong></td>
+
+    </tr>
+
+        <tr>
+
+        <td>S4</td>
+
+                    <td>-4</td>
+
+                    <td>-4</td>
+
+                    <td>-4</td>
+
+                    <td>0</td>
+
+                <td><strong>0/64</strong></td>
+
+    </tr>
+
+        <tr>
+
+        <td>S5</td>
+
+                    <td>-2</td>
+
+                    <td>-2</td>
+
+                    <td>0</td>
+
+                    <td>2</td>
+
+                <td><strong>2/64</strong></td>
+
+    </tr>
+
+        <tr>
+
+        <td>S6</td>
+
+                    <td>0</td>
+
+                    <td>2</td>
+
+                    <td>2</td>
+
+                    <td>0</td>
+
+                <td><strong>0/64</strong></td>
+
+    </tr>
+
+        <tr>
+
+        <td>S7</td>
+
+                    <td>0</td>
+
+                    <td>-2</td>
+
+                    <td>0</td>
+
+                    <td>4</td>
+
+                <td><strong>4/64</strong></td>
+
+    </tr>
+
+        <tr>
+
+        <td>S8</td>
+
+                    <td>0</td>
+
+                    <td>0</td>
+
+                    <td>2</td>
+
+                    <td>2</td>
+
+                <td><strong>2/64</strong></td>
+
+    </tr>
+
+    </table><br /><br />
+
 <style>
 
 table { border-collapse: collapse }
@@ -73,7 +217,7 @@ Random variables defined by S-box:<br />
 
         <td>Y1</td><td>Y2</td><td>Y3</td><td>Y4</td>
 
-        <td>Y2 XOR Y3</td>
+        <td>X2 xor Y1 xor Y4</td>
 
     </tr>
 
@@ -85,7 +229,7 @@ Random variables defined by S-box:<br />
 
             <td>1</td><td>1</td><td>1</td><td>0</td>
 
-            <td>0</td>
+            <td>1</td>
 
         </tr>
 
@@ -97,7 +241,7 @@ Random variables defined by S-box:<br />
 
             <td>0</td><td>1</td><td>0</td><td>0</td>
 
-            <td>1</td>
+            <td>0</td>
 
         </tr>
 
@@ -109,7 +253,7 @@ Random variables defined by S-box:<br />
 
             <td>1</td><td>1</td><td>0</td><td>1</td>
 
-            <td>1</td>
+            <td>0</td>
 
         </tr>
 
@@ -121,7 +265,7 @@ Random variables defined by S-box:<br />
 
             <td>0</td><td>0</td><td>0</td><td>1</td>
 
-            <td>0</td>
+            <td>1</td>
 
         </tr>
 
@@ -145,7 +289,7 @@ Random variables defined by S-box:<br />
 
             <td>1</td><td>1</td><td>1</td><td>1</td>
 
-            <td>0</td>
+            <td>1</td>
 
         </tr>
 
@@ -229,7 +373,7 @@ Random variables defined by S-box:<br />
 
             <td>0</td><td>1</td><td>0</td><td>1</td>
 
-            <td>1</td>
+            <td>0</td>
 
         </tr>
 
@@ -241,7 +385,7 @@ Random variables defined by S-box:<br />
 
             <td>1</td><td>0</td><td>0</td><td>1</td>
 
-            <td>0</td>
+            <td>1</td>
 
         </tr>
 
@@ -253,7 +397,7 @@ Random variables defined by S-box:<br />
 
             <td>0</td><td>0</td><td>0</td><td>0</td>
 
-            <td>0</td>
+            <td>1</td>
 
         </tr>
 
